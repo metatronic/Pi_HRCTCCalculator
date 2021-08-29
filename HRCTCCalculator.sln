@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRCTCLibrary", "HRCTCLibrary\HRCTCLibrary.csproj", "{99FD5A2B-EAEF-49DF-A4D3-C62E49C94D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRApp", "HRApp\HRApp.csproj", "{CA0C0D10-4D16-430D-9BF2-92E21B55512E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FD5A2B-EAEF-49DF-A4D3-C62E49C94D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FD5A2B-EAEF-49DF-A4D3-C62E49C94D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FD5A2B-EAEF-49DF-A4D3-C62E49C94D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FD5A2B-EAEF-49DF-A4D3-C62E49C94D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0C0D10-4D16-430D-9BF2-92E21B55512E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0C0D10-4D16-430D-9BF2-92E21B55512E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0C0D10-4D16-430D-9BF2-92E21B55512E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0C0D10-4D16-430D-9BF2-92E21B55512E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0697085D-CF15-4F8F-851B-3BD9EBE82FA7}
+	EndGlobalSection
+EndGlobal
